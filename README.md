@@ -6,7 +6,7 @@ JDK 11 - Seems to be the only JDK version that works for Runelite plugin develop
 
 ## Build Instructions - Eclipse (MacOS)
 #### Configuring your project's run configurations:
-1. Import the project into Eclipse.
+1. Import the project into Eclipse as an Existing Gradle Project.
 2. Right click project -> Run > Run Configurations.
 3. Set the Main class as com.pleaeTest.PleaePluginTest.
 4. In Arguments > VM Arguments, add the `-ea` option.
