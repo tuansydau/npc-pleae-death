@@ -1,7 +1,7 @@
 # NPC Pleae
 A Runelite Plugin that makes NPCs say "Pleae" when they die". There's already a plugin that makes you say Pleae when you die, but I just thought it'd be funnier the other way around.
 
-## Java Dependency
+## Java Version
 JDK 11 - Seems to be the only JDK version that works for Runelite plugin development.
 
 ## Build Instructions - Eclipse (MacOS)
